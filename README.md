@@ -25,8 +25,7 @@ I am a full-stack developer with experience in a variety of technologies, includ
 * **State Management & Libraries**:
   - [Redux](https://redux.js.org/): 🔗 A predictable state container for JavaScript apps  
   - [Redux-Saga](https://redux-saga.js.org/): ♻️ A library to handle side effects in React applications  
-  - [NgRx](https://ngrx.io/): 🌀 Reactive state management for Angular apps  
-  - [Akita](https://datorama.github.io/akita/): 🌟 A state management pattern for Angular applications  
+  - [NgRx](https://ngrx.io/): 🌀 Reactive state management for Angular apps 
   - [RxJS](https://rxjs.dev/): 💡 A library for reactive programming, extensively used in Angular  
 
 * **Database Technologies**:
@@ -42,6 +41,6 @@ I am a full-stack developer with experience in a variety of technologies, includ
   - **Team Collaboration**: 🤝 Strong experience with Agile and Scrum methodologies  
     - [Scrum Basics on YouTube](https://www.youtube.com/watch?v=9TycLR0TqFA)  
   - **Problem Solving**: 🔍 Creative and analytical skills for tackling challenges  
-    - [Creative Problem Solving Techniques](https://www.youtube.com/watch?v=NWFtFnJkTuk)  
+    - [Creative Problem Solving Techniques](https://www.youtube.com/watch?v=klAE9ML0XLs)  
   - **Communication**: 💬 Excellent verbal and written communication skills for bridging technical and non-technical audiences  
     - [Effective Communication Skills](https://www.youtube.com/watch?v=HAnw168huqA)  
