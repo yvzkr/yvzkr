@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div align="center">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B+;I+am+YAVUZ+KURU)](https://git.io/typing-svg)
+</div>
 
 I am a full-stack developer with experience in a variety of technologies, including:
 
@@ -44,3 +47,4 @@ I am a full-stack developer with experience in a variety of technologies, includ
     - [Creative Problem Solving Techniques](https://www.youtube.com/watch?v=klAE9ML0XLs)  
   - **Communication**: 💬 Excellent verbal and written communication skills for bridging technical and non-technical audiences  
     - [Effective Communication Skills](https://www.youtube.com/watch?v=HAnw168huqA)  
+
